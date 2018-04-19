@@ -1,0 +1,28 @@
+{
+  "name": "homepage",
+  "version": "0.0.1",
+  "description": "My Personal Homepage - Powered by VuePress",
+  "main": "README.md",
+  "scripts": {
+    "vuepress:dev": "vuepress dev",
+    "vuepress:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbobenicio/homepage.git"
+  },
+  "keywords": [
+    "hbobenicio",
+    "vuepress",
+    "homepage"
+  ],
+  "author": "Hugo Benicio <hbobenicio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hbobenicio/homepage/issues"
+  },
+  "homepage": "https://github.com/hbobenicio/homepage#readme",
+  "devDependencies": {
+    "vuepress": "^0.7.0"
+  }
+}
